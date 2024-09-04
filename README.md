@@ -31,11 +31,11 @@ With the increasing use of cross-chain transactions in the DeFi space, the risk 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/razabhadur/MEV-Shield-.git
+   git clone https://github.com/razabhadur/Cross-Chain-Security-Analyzer
    ```
 2. Navigate to the project directory:
    ```bash
-   cd MEV-Shield-
+   cd Cross-Chain-Security-Analyzer
    ```
 3. Install the required dependencies:
    ```bash
